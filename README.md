@@ -16,7 +16,10 @@ SkillScope is an interview platform scaffold with a React frontend and a Spring 
 ```text
 backend/   Spring Boot API, Flyway migrations, Spring Data JDBC entities and repositories
 frontend/  React/Vite application
+docs/      Business requirements, development specs, and database schema
 ```
+
+Project context for future development is stored in [docs/](docs/).
 
 ## Quick Start With Docker
 
